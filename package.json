@@ -1,7 +1,5 @@
 {
   "name": "virtulr",
-  "private": true,
-  "homepage": "https://hetveeK036.github.io/VIRTULR",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
