@@ -25,18 +25,4 @@ const App = () => {
 
 export default App
 
-// position: absolute;
-//     left: -15px;
-//     top: 0;
-//     content: "";
-//     height: 2px;
-//     width: 10px;
-//     background: #
 
-//     display: inline-block;
-//     width: 50px;
-//     height: 2px;
-//     background: #25285f;
-//     position: relative;
-//     z-index: 1;
-//     left: 10px;

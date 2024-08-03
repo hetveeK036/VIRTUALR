@@ -29,8 +29,8 @@ const Navbar = () => {
             ))}
           </ul>
           <div className="hidden lg:flex space-x-12 item-center justify-center">
-            <a href="#" className="py-2 px-3 border rounded-md"> Sign In</a>
-            <a href="#" className="py-2 px-3 border rounded-md bg-gradient-to-r from-orange-500 to-orange-800"> Create an account</a>
+            <a href="#" className="py-2 px-3 text-base border rounded-md hover:border-orange-500 shadow-orange-800"> Sign In</a>
+            <a href="#" className="py-2 px-3 text-base border rounded-md bg-gradient-to-r from-orange-500 to-orange-800"> Create an account</a>
           </div>
           <div className="lg:hidden md-flex flex-col justify-end">
             <button className = "pt-2" onClick={toggleNavbar}> {mobileView ? <X/> : <Menu/>}</button>
